@@ -25,7 +25,7 @@ $ code .
 # run the script on your terminal
 $ ruby enumerables.rb
 
-# install rspec on your local machine 
+# install rspec on your local machine
 $ gem install rspec
 
 # test the code using Rspec, run rspec from your comand line
@@ -34,7 +34,7 @@ $ rspec
 
 ## Authors
 
-👤 **Vitalie**
+👤 **Vitalie Melnic**
 
 - Github: [@vitalie](https://github.com/vmwhoami)
 - Twitter: [@vmwhoami](https://twitter.com/vmwhoami)
@@ -53,6 +53,8 @@ Contributions, issues and feature requests are welcome!
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+```
 
 ```
 
